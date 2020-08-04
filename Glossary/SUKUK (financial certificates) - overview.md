@@ -333,19 +333,19 @@ investment opportunities for their current assets.
 
 ### Structure and characteristics
 
-Sukuk are structured in several different ways.
+Sukuk are structured in several ways.
 
 The AAOIFI has laid down 14 different types of sukuk.
 
 While a conventional bond is a promise to repay a loan, Sukuk constitute
 partial ownership in a debt, asset, project, business or investment:
 
--   debt (**Sukuk Murabaha**). These Sukuk are not common because their
+-   **Sukuk Murabaha** (debt). These Sukuk are not common because their
     payments to investors represent debt and are therefore not tradable
     or negotiable according to Shari'ah. (If diluted with other
     non-Murahaha Sukuk in a mixed portfolio they may be traded);
 
--   asset (**Sukuk Al-Ijara**). These are \"essentially\" rental or lease
+-   **Sukuk Al-Ijara** (asset). These are \"essentially\" rental or lease
     contracts, or conventional lease-revenue bonds. With these Sukuk,
     the borrower\'s tangible asset is \'sold\' to the financier and then
     \'leased\' back to the borrowers. The borrowers then make regular
@@ -355,7 +355,7 @@ partial ownership in a debt, asset, project, business or investment:
     there simplicity, tradability and ability to provide a fixed flow of
     income;
 
--   asset at a future date (**Sukuk Al-Salam**). In this Sukuk the SPV does
+-   **Sukuk Al-Salam** (asset at a future date). In this Sukuk the SPV does
     not buy an asset but agrees to buy one at a future date in exchange
     for advance payments. The asset is then sold in the future for its
     cost plus a profit by an agent. On or before the date agreed to in
@@ -368,15 +368,15 @@ partial ownership in a debt, asset, project, business or investment:
     to a zero-coupon bond. An example of this kind of Sukuk are 91-day
     CBB Sukuk Al-Salam issued by Central Bank of Bahrain;
 
--   project (**Sukuk Al-Istisna**). These Sukuk are complex and cannot be
+-   **Sukuk Al-Istisna** (project). These Sukuk are complex and cannot be
     traded in the secondary market or sold to a third party for less
     than its face value;
 
--   business (**Sukuk Al-Musharaka**). These Sukuk holders are also the
+-   **Sukuk Al-Musharaka** (business). These Sukuk holders are also the
     owners of the originator issuing the Sukuk and participate in the
     decision-making. These Sukuk can be traded in the secondary market;
 
--   or investment (**Sukuk Al-Istithmar**).
+-   **Sukuk Al-Istithmar** (investment).
 
 The most commonly used sukuk structures replicate the cash flows of
 conventional bonds. Such structures are listed on exchanges, commonly

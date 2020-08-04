@@ -4,8 +4,8 @@
 
 # Asset-Backed Instruments
 
-1. [Murabaha](./DEBT SUKUK AL-MURABAHA.md) 
+1. [Murabaha](SUKUK AL-MURABAHA \(commodity certificates\).md) 
 2. Musawamah
-3. [Salam](./DEBT SUKUK AL-SALAM.md)
-4. [Istisna’a](./DEBT SUKUK AL-ISTISNA.md)
+3. [Salam](SUKUK AL-SALAM \(asset at a future date certificates\).md)
+4. [Istisna’a](SUKUK AL-ISTISNA \(project certificates\).md)
 5. [Tawarruq](TAWARRUQ.md)

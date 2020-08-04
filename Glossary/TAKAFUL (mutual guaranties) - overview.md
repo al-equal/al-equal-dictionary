@@ -7,12 +7,11 @@ INSURANCE
 Takaful
 -------
 
-(Arabic: التكافل‎, sometimes translated as \"solidarity\"
-or mutual guarantee) 
-
-is a co-operative system of reimbursement or repayment in case of loss,
-organized as an Islamic or Shari'ah compliant alternative to
-conventional insurance, which *Takaful* proponents believe contains.
+*Takaful* (Arabic: التكافل‎, sometimes translated as \"solidarity\"
+or mutual guarantee) is a co-operative system of reimbursement or
+repayment in case of loss, organized as an Islamic or Shari'ah compliant
+alternative to conventional insurance, which *Takaful* proponents believe
+contains.
 
 Under *Takaful*, people and companies concerned about hazards make regular
 contributions (\"donations\") to be reimbursed or repaid to members in
